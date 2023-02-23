@@ -1,6 +1,6 @@
 <h1 align="center"> welcome to my CrazyCodes Hub :sunglasses: </h1>
 
-<p>Hi there! My name is Jonathan, I'm a JAVA and Kotlin software engineer, currentelly working at TCU (Federal Court Of Accounts) in Brazil.</p>
+<p>Hi there! My name is Jonathan, I'm a JAVA and Kotlin software engineer, currently working at TCU (Federal Court Of Accounts) in Brazil.</p>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-cabral/?locale=en_US)
