@@ -9,7 +9,7 @@
 
 ##
 
-* :computer: Back-end software Developer - Java | Kotlin
+* :computer: Back-end software Developer - Java / Kotlin
 * :mortar_board: Systems Development Analyst technical degree
 * :mortar_board: Software Architecture graduate degre
 
